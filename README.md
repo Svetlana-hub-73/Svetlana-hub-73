@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Svetlana-hub-73
-- 👀 I’m interested in sales analysis while working in the pharmaceutical field
-- 🌱 I’m currently learning phyton.
-- 💞️ I’m looking to collaborate on pharnaceutical.
-- 📫 How to reach me s9031031640@gmail.com
+I am a specialist with a degree in pharmacy and am currently studying Python. My interests are in the development of software solutions for pharmaceutical activities, such as automation of processes in pharmacies, analysis and processing of drug data, creation of applications for pharmacists and pharmacy customers.
 
+My experience and expertise in pharmaceuticals helps me better understand the needs for software solutions for pharmacies and healthcare facilities. I am working on projects that include:
 
-<!---
-Svetlana-hub-73/Svetlana-hub-73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Develop pharmacy inventory management programs
+
+Creation of databases for medicinal products
+
+Development of chatbots for pharmaceutical consultation
+
+Integration of pharmacy data with external sources and APIs
+
+I am actively studying and developing in the field of Python, striving to create useful and convenient solutions for the pharmaceutical industry.
